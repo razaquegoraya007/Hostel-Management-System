@@ -93,13 +93,13 @@ public class Login extends javax.swing.JFrame {
         jLabel6.setForeground(new java.awt.Color(255, 255, 255));
         jPanel3.add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(12, 396, 300, 82));
 
-        jLabel14.setText("Developed By:");
+        
         jPanel3.add(jLabel14, new org.netbeans.lib.awtextra.AbsoluteConstraints(12, 649, -1, -1));
 
-        jLabel15.setText("Abdul Sattar Brohi (023-21-0080)");
+       
         jPanel3.add(jLabel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(12, 671, -1, -1));
 
-        jLabel16.setText("Amjad Ali (191-21-0001)");
+        
         jPanel3.add(jLabel16, new org.netbeans.lib.awtextra.AbsoluteConstraints(12, 694, -1, -1));
 
         getContentPane().add(jPanel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 320, 790));
